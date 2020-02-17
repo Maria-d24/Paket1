@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class HW3Task1 {
 
-  //  public static class HWRandom     {
+
 
         public static void main(String[] args) {
 
@@ -47,6 +47,6 @@ public class HW3Task1 {
     return znak;
   }
 
-    //    }
+    
     }
 
