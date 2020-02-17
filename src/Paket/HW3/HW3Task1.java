@@ -47,6 +47,6 @@ public class HW3Task1 {
     return znak;
   }
 
-    
+
     }
 
